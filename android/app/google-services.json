@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559555528097",
+    "project_id": "flutter-signin-curso-clase301",
+    "storage_bucket": "flutter-signin-curso-clase301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559555528097:android:5c8e709f00bed82f5937e0",
+        "android_client_info": {
+          "package_name": "com.SergioMiguez.fluetterAuthApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559555528097-122ckdko309ng1gc52npkl443ojfnlum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SergioMiguez.fluetterAuthApp",
+            "certificate_hash": "32278ad4394c06de699f2de9465fdbafce0e12c6"
+          }
+        },
+        {
+          "client_id": "559555528097-0p311udp3c6u6440ha34brlpeki1idbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY01GV1fbs4oAOCR0KiUaIOyehLl8fukA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559555528097-0p311udp3c6u6440ha34brlpeki1idbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
